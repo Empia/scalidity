@@ -1,7 +1,7 @@
 package example
 
 object Hello extends Greeting with App {
-  println(greeting)
+  scalidity.Generator()
 }
 
 trait Greeting {
